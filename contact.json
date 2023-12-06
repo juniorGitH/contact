@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "nom": "Dupont",
+      "prenom": "Jean",
+      "email": "jean.dupont@email.com",
+      "telephone": "+1234567890"
+    },
+    {
+      "nom": "Martin",
+      "prenom": "Marie",
+      "email": "marie.martin@email.com",
+      "telephone": "+9876543210"
+    },
+    {
+      "nom": "Lefevre",
+      "prenom": "Pierre",
+      "email": "pierre.lefevre@email.com",
+      "telephone": "+1122334455"
+    }
+  ]
+}
